@@ -1,4 +1,4 @@
-// Examen de Fefe
+
 // Examen 3
 
 #include <stdio.h>
